@@ -43,7 +43,8 @@ As you work on this Challenge, remember that you’re strengthening the same cor
 5. Analyze your dataset by using Pandas functions to answer the following questions:
   
   - How many Martian (and not Earth) days worth of data exist in the scraped dataset?
-    - There are a total of 1867 earth days worth of data in the dataset.
+
+        - There are a total of 1867 earth days worth of data in the dataset.
 
   - What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
     - Find the average minimum daily temperature for all of the months.
