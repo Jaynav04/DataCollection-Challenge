@@ -59,7 +59,7 @@ As you work on this Challenge, remember that you’re strengthening the same cor
     - Plot the results as a bar chart.
 
 
-  -Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
+  - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
     - Find the average daily atmospheric pressure of all the months.
     - Plot the results as a bar chart.
 
