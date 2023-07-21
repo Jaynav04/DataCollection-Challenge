@@ -64,7 +64,7 @@ As you work on this Challenge, remember that you’re strengthening the same cor
     - Plot the results as a bar chart.
 
 
-  -About how many terrestrial (Earth) days exist in a Martian year? To answer this question
+  - About how many terrestrial (Earth) days exist in a Martian year? To answer this question
     - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
     - Visually estimate the result by plotting the daily minimum temperature.
 
