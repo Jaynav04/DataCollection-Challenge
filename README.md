@@ -1,8 +1,8 @@
-# DataCollection-Challenge
+# DataCollection- Mars Weather Data
 
 - Find my work in Starter Code folder
-# Background
-After a couple months into my Data Analytics Bootcamp I am now ready to take on a full web-scraping and data analysis project. I have learned to identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. I have also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
+# Overview
+With a few months invested in my Data Analytics Bootcamp, I've reached a point where I'm fully prepared to embark on an extensive web-scraping and data analysis project. I've acquired the skills to discern HTML elements on a webpage, recognize their id and class attributes, and effectively extract valuable information using automated browsing through Splinter and HTML parsing via Beautiful Soup. My proficiency extends to scraping various forms of data, encompassing HTML tables and recurrent elements such as multiple news articles within a webpage. This marks an exciting milestone in my journey towards becoming a proficient data analyst.
 
 Core skills showed: collecting data, organizing and storing data, analyzing data, and then visually communicating insights.
 
