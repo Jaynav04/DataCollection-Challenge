@@ -4,7 +4,7 @@
 # Background
 After a couple months into my Data Analytics Bootcamp I am now ready to take on a full web-scraping and data analysis project. I have learned to identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. I have also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
 
-Core skills showed: collecting data, organizing and storing data, analyzing data, and then visually communicating your insights.
+Core skills showed: collecting data, organizing and storing data, analyzing data, and then visually communicating insights.
 
 ## The Project is split up into two parts
 - Part 1: Scrape titles and preview text from Mars news articles.
@@ -16,10 +16,10 @@ Core skills showed: collecting data, organizing and storing data, analyzing data
 
 1. Use automated browsing to visit the Mars news site. Inspect the page to identify which elements to scrape.
 2. Create a Beautiful Soup object and use it to extract text elements from the website.
-3.Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
+3.Extract the titles and preview text of the news articles that I scraped. Store the scraping results in Python data structures as follows:
   - Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview.
   - Store all the dictionaries in a Python list
-  - Print the list in your notebook
+  - Print the list into my Jupyter notebook
 4. Optionally, store the scraped data in a file (to ease sharing the data with others). To do so, export the scraped data to a JSON file.
 
 
