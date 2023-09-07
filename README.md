@@ -1,5 +1,8 @@
 # DataCollection- Mars Weather Data
 
+![image](https://github.com/Jaynav04/Mars--Weather-Data/assets/130405173/f8f99de4-8ae6-42ed-8191-13c2212ff114)
+
+
 - Find my work in Starter Code folder
 # Overview
 With a few months invested in my Data Analytics Bootcamp, I've reached a point where I'm fully prepared to embark on an extensive web-scraping and data analysis project. I've acquired the skills to discern HTML elements on a webpage, recognize their id and class attributes, and effectively extract valuable information using automated browsing through Splinter and HTML parsing via Beautiful Soup. My proficiency extends to scraping various forms of data, encompassing HTML tables and recurrent elements such as multiple news articles within a webpage. This marks an exciting milestone in my journey towards becoming a proficient data analyst.
